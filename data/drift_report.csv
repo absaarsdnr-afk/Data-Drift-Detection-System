@@ -1,0 +1,7 @@
+Feature,KS_Statistic,P_Value,Drift,Severity
+age,0.26565523171892746,0.0,Yes,26.57
+fnlwgt,0.0,1.0,No,0.0
+education_num,0.0,1.0,No,0.0
+capital_gain,0.018519087251619992,2.790888255649997e-05,Yes,1.85
+capital_loss,0.0,1.0,No,0.0
+hours_per_week,0.49445655845950676,0.0,Yes,49.45
